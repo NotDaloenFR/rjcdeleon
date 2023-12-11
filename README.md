@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+theme: jekyll-theme-Cayman
 <html lang="en">
 <title>Introduction to Computing Website</title>
 <meta charset="UTF-8">
