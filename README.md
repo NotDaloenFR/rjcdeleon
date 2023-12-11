@@ -39,7 +39,7 @@ body {font-family: "Lato", sans-serif}
       <div class="w3-dropdown-content w3-bar-block w3-card-4">
         <a href="While-Loop.html" class="w3-bar-item w3-button">While Loop</a>
         <a href="Sum-of-numbers.html" class="w3-bar-item w3-button">Do While Loop</a>
-        <a href="Average-of-Natural-Numbers.html" class="w3-bar-item w3-button">For Loop</a>
+        <a href="Average-of-Numbers.html" class="w3-bar-item w3-button">For Loop</a>
         
       </div>
     </div>
